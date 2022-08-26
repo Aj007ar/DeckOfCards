@@ -1,0 +1,15 @@
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\DeckOfCards\bin\Debug\net6.0\DeckOfCards.exe
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\DeckOfCards\bin\Debug\net6.0\DeckOfCards.deps.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\DeckOfCards\bin\Debug\net6.0\DeckOfCards.runtimeconfig.json
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\DeckOfCards\bin\Debug\net6.0\DeckOfCards.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\DeckOfCards\bin\Debug\net6.0\DeckOfCards.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\DeckOfCards\obj\Debug\net6.0\DeckOfCards.csproj.AssemblyReference.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\DeckOfCards\obj\Debug\net6.0\DeckOfCards.GeneratedMSBuildEditorConfig.editorconfig
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\DeckOfCards\obj\Debug\net6.0\DeckOfCards.AssemblyInfoInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\DeckOfCards\obj\Debug\net6.0\DeckOfCards.AssemblyInfo.cs
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\DeckOfCards\obj\Debug\net6.0\DeckOfCards.csproj.CoreCompileInputs.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\DeckOfCards\obj\Debug\net6.0\DeckOfCards.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\DeckOfCards\obj\Debug\net6.0\refint\DeckOfCards.dll
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\DeckOfCards\obj\Debug\net6.0\DeckOfCards.pdb
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\DeckOfCards\obj\Debug\net6.0\DeckOfCards.genruntimeconfig.cache
+D:\BL\LinuxBatch-560\LFP-183-DotNet\OOP-Problems\DeckOfCards\obj\Debug\net6.0\ref\DeckOfCards.dll
